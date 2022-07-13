@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Patrick c.v</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <h1>Nnodim patrick</h1>
+    <p>My name is Patrick ikechukwu Nnodim, Am a web developer and a citizen of Nigeria.</p>
+    <hr>
+    <a href="contactme.html">My contact</a>
+    <hr>
+  <a href="personaldata.html">Personal Data</a>
+    <hr>
+    <h1>PERSONAL ATTRIBUTE</h1>
+    <ul>
+      <li>PR/Guest Relation</li>
+      <li> Attention To Details</li>
+      <li>Team Management</li>
+      <li>Auditing Skills</li>
+      <li>Collaborative</li>
+      <li>Time management</li>
+  </ul>
+    <hr>
+  <a href="workingexperience.html">working experience</a>
+<h2>Hobbies</h2>
+  <p>Cooking</p>
+  <p>Researching</p>
+  <p>Cycling</p>
+  <p>Basketball</p>
+</body>
+</html>
